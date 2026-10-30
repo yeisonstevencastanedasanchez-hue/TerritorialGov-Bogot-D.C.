@@ -4,4 +4,3 @@ numpy
 plotly
 sqlalchemy
 psycopg2-binary
-unicodedata-nightly
